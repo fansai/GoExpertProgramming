@@ -23,7 +23,3 @@
 
 # 画图工具
 本书中所有原创图片都使用[`ProcessOn`](https://www.processon.com/i/5ba9b549e4b075b9fe553d20)在线工具完成。
-
-
-# 开始阅读
-[开始阅读](https://rainbowmango.gitbook.io/go/)
